@@ -1,7 +1,7 @@
 {
   "name": "atom-panic-palette-syntax",
   "theme": "syntax",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Atom syntax theme based on Coda 2.5 Panic Palette theme.",
   "keywords": [
     "syntax",
